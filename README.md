@@ -13,4 +13,6 @@ kotlinc src   -include-runtime -d  app.jar
 ```
 
 ## How to run
+```
 javaw -jar app.jar
+```
