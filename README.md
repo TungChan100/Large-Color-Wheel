@@ -16,3 +16,6 @@ kotlinc src   -include-runtime -d  app.jar
 ```
 javaw -jar app.jar
 ```
+
+## Screen shot
+![alt text](screenshot/screenshot.1.jpg/)
