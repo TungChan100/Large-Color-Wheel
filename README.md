@@ -3,7 +3,7 @@ Easy to see huge Color code wheel
 
 Written in Kotlin, Need Java8+ to run
 
-This project bases on https://github.com/ohmae/wheel-color-chooser
+This project base on https://github.com/ohmae/wheel-color-chooser
 
 
 ## How to compile
