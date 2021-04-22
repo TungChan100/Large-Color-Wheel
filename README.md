@@ -19,3 +19,4 @@ javaw -jar app.jar
 
 ## Screen shot
 ![alt text](screenshot/screenshot.1.jpg/)
+![alt text](screenshot/screenshot.2.jpg/)
