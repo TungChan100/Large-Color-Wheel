@@ -8,7 +8,9 @@ This project base on https://github.com/ohmae/wheel-color-chooser
 
 ## How to compile
 install kotlin and run
+```
 kotlinc src   -include-runtime -d  app.jar
+```
 
 ## How to run
 javaw -jar app.jar
